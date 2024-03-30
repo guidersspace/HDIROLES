@@ -1,0 +1,18 @@
+{
+  "elc.security.Roles.SEC::Y_X_XX_SEC_ADMIN": {
+    "_SYS_STATISTICS": {
+      "schema": "_SYS_STATISTICS"
+    }
+  },
+  "Y_X_XX_SEC_ADMIN": {
+    "_SYS_STATISTICS": {
+      "schema": "_SYS_STATISTICS"
+    },
+    "GUIDERS_1#DI": {
+      "schema": "GUIDERS_1#DI"
+    },
+    "GUIDERS_1": {
+      "schema": "GUIDERS_1"
+    }
+  }
+}

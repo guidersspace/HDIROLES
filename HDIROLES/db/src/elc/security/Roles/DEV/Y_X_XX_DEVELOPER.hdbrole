@@ -1,0 +1,14 @@
+{
+  "role": {
+    "name": "elc.security.Roles.DEV::Y_X_XX_DEVELOPER",
+    "system_privileges": [
+      "CATALOG READ",
+      "CREATE REMOTE SOURCE",
+      "CREATE SCENARIO",
+      "CREATE SCHEMA",
+      "CREATE STRUCTURED PRIVILEGE",
+      "EXPORT",
+      "IMPORT"
+    ]
+  }
+}

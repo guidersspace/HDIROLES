@@ -1,0 +1,52 @@
+{
+  "role": {
+    "name": "elc.security.Roles.BAS::Y_X_XX_MONITOR",
+    "object_privileges": [
+      {
+        "name": "SYS_M_HEAP_MEMORY_RESET",
+        "type": "VIEW",
+        "privileges": [
+          "SELECT"
+        ]
+      },
+      {
+        "name": "SYS_M_SERVICE_MEMORY",
+        "type": "VIEW",
+        "privileges": [
+          "SELECT"
+        ]
+      },
+      {
+        "name": "SYS_M_SERVICE_STATISTICS",
+        "type": "VIEW",
+        "privileges": [
+          "SELECT"
+        ]
+      },
+      {
+        "name": "SYS_GET_INSUFFICIENT_PRIVILEGE_ERROR_DETAILS",
+        "type": "PROCEDURE",
+        "privileges": [
+          "EXECUTE"
+        ]
+      },
+      {
+        "name": "SYS_M_SERVICES",
+        "type": "VIEW",
+        "privileges": [
+          "SELECT"
+        ]
+      },
+      {
+        "name": "SYS_PASSWORD_EXCLUDE_LIST",
+        "type": "TABLE",
+        "privileges": [
+          "SELECT"
+        ]
+      }
+    ],
+    "system_privileges": [
+      "CATALOG READ"
+    ]
+  }
+}

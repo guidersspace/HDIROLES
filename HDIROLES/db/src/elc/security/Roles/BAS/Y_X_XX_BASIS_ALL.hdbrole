@@ -1,0 +1,38 @@
+{
+  "role": {
+    "name": "elc.security.Roles.BAS::Y_X_XX_BASIS_ALL",
+    "system_privileges": [
+      "ADAPTER ADMIN",
+      "AGENT ADMIN",
+      "AUDIT ADMIN",
+      "AUDIT OPERATOR",
+      "BACKUP ADMIN",
+      "BACKUP OPERATOR",
+      "CATALOG READ",
+      "CERTIFICATE ADMIN",
+      "CREATE REMOTE SOURCE",
+      "CREATE SCENARIO",
+      "CREATE SCHEMA",
+      "CREATE STRUCTURED PRIVILEGE",
+      "CREDENTIAL ADMIN",
+      "EXPORT",
+      "IMPORT",
+      "INIFILE ADMIN",
+      "LOG ADMIN",
+      "MONITOR ADMIN",
+      "OPTIMIZER ADMIN",
+      "RESOURCE ADMIN",
+      "SAVEPOINT ADMIN",
+      "SCENARIO ADMIN",
+      "SERVICE ADMIN",
+      "STRUCTUREDPRIVILEGE ADMIN",
+      "TABLE ADMIN",
+      "TRACE ADMIN",
+      "TRUST ADMIN",
+      "WORKLOAD ADMIN",
+      "WORKLOAD ANALYZE ADMIN",
+      "WORKLOAD CAPTURE ADMIN",
+      "WORKLOAD REPLAY ADMIN"
+    ]
+  }
+}

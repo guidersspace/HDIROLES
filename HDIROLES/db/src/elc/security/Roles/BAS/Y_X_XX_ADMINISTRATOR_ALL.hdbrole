@@ -1,0 +1,35 @@
+{
+  "role": {
+    "name": "elc.security.Roles.BAS::Y_X_XX_ADMINISTRATOR_ALL",
+    "system_privileges": [
+      "ADAPTER ADMIN",
+      "AGENT ADMIN",
+      "AUDIT ADMIN",
+      "BACKUP ADMIN",
+      "CATALOG READ",
+      "CERTIFICATE ADMIN",
+      "CREATE JWT PROVIDER",
+      "CREATE REMOTE SOURCE",
+      "CREATE SCHEMA",
+      "CREATE USERGROUP",
+      "EXPORT",
+      "IMPORT",
+      "LOG ADMIN",
+      "MEMORY PROFILER ADMIN",
+      "MONITOR ADMIN",
+      "OPTIMIZER ADMIN",
+      "RESOURCE ADMIN",
+      "SAVEPOINT ADMIN",
+      "SCENARIO ADMIN",
+      "SERVICE ADMIN",
+      "SESSION ADMIN",
+      "TABLE ADMIN",
+      "TRACE ADMIN",
+      "TRUST ADMIN",
+      "WORKLOAD ADMIN",
+      "WORKLOAD ANALYZE ADMIN",
+      "WORKLOAD CAPTURE ADMIN",
+      "WORKLOAD REPLAY ADMIN"
+    ]
+  }
+}

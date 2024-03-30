@@ -1,0 +1,7 @@
+{
+  "DB_CONTAINER_ROLE_ADMIN": {
+    "_SYS_DI": {
+      "schema": "_SYS_DI"
+    }
+  }
+}

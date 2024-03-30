@@ -1,0 +1,13 @@
+{
+  "role": {
+    "name": "elc.security.Roles.BAS::Y_X_XX_COCKPIT",
+    "system_privileges": [
+      "CERTIFICATE ADMIN",
+      "INIFILE ADMIN",
+      "SESSION ADMIN",
+      "TRUST ADMIN",
+      "WORKLOAD ANALYZE ADMIN",
+      "WORKLOAD CAPTURE ADMIN"
+    ]
+  }
+}

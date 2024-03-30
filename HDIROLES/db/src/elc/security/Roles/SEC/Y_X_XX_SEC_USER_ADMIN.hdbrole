@@ -1,0 +1,9 @@
+{
+  "role": {
+    "name": "elc.security.Roles.SEC::Y_X_XX_SEC_USER_ADMIN",
+    "system_privileges": [
+      "CREATE USERGROUP",
+      "CATALOG READ"
+    ]
+  }
+}

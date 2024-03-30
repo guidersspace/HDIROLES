@@ -1,0 +1,9 @@
+{
+  "role": {
+    "name": "elc.security.Roles.BAS::Y_X_XX_BACKUP",
+    "system_privileges": [
+      "BACKUP ADMIN",
+      "BACKUP OPERATOR"
+    ]
+  }
+}

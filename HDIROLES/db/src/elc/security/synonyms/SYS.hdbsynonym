@@ -1,0 +1,50 @@
+{
+  "SYS_GET_INSUFFICIENT_PRIVILEGE_ERROR_DETAILS": {
+    "target": {
+      "object": "GET_INSUFFICIENT_PRIVILEGE_ERROR_DETAILS",
+      "schema": "SYS"
+    }
+  },
+  "SYS_M_SERVICE_MEMORY": {
+    "target": {
+      "object": "M_SERVICE_MEMORY",
+      "schema": "SYS"
+    }
+  },
+  "SYS_M_SERVICES": {
+    "target": {
+      "object": "M_SERVICES",
+      "schema": "SYS"
+    }
+  },
+  "SYS_PASSWORD_EXCLUDE_LIST": {
+    "target": {
+      "object": "PASSWORD_EXCLUDE_LIST",
+      "schema": "SYS"
+    }
+  },
+  "SYS_M_SERVICE_STATISTICS": {
+    "target": {
+      "object": "M_SERVICE_STATISTICS",
+      "schema": "SYS"
+    }
+  },
+  "SYS_M_HEAP_MEMORY_RESET": {
+    "target": {
+      "object": "M_HEAP_MEMORY_RESET",
+      "schema": "SYS"
+    }
+  },
+  "SYS_DI.TT_SCHEMA_ROLES": {
+    "target": {
+      "object": "TT_SCHEMA_ROLES",
+      "schema": "_SYS_DI"
+    }
+  },
+  "SYS_DI.T_NO_PARAMETERS": {
+    "target": {
+      "object": "T_NO_PARAMETERS",
+      "schema": "_SYS_DI"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "role": {
+    "name": "DB_CONTAINER_ROLE_ADMIN",
+    "schema_privileges": [
+      {
+        "reference": "_SYS_DI",
+        "privileges": [
+          "CREATE TEMPORARY TABLE"
+        ]
+      }
+    ]
+  }
+}

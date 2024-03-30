@@ -1,0 +1,17 @@
+{
+  "role": {
+    "name": "elc.security.Roles.GEN::Y_X_XX_COMMON",
+    "object_privileges": [
+      {
+        "name": "SYS_GET_INSUFFICIENT_PRIVILEGE_ERROR_DETAILS",
+        "type": "PROCEDURE",
+        "privileges": [
+          "EXECUTE"
+        ]
+      }
+    ],
+    "system_privileges": [
+      "CATALOG READ"
+    ]
+  }
+}

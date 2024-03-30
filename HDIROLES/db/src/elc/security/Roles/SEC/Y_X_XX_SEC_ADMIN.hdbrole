@@ -1,0 +1,91 @@
+{
+  "role": {
+    "name": "Y_X_XX_SEC_ADMIN",
+    "object_privileges": [
+      {
+        "name": "SYS_M_HEAP_MEMORY_RESET",
+        "type": "VIEW",
+        "privileges": [
+          "SELECT"
+        ]
+      },
+      {
+        "name": "SYS_M_SERVICE_MEMORY",
+        "type": "VIEW",
+        "privileges": [
+          "SELECT"
+        ]
+      },
+      {
+        "name": "SYS_M_SERVICE_STATISTICS",
+        "type": "VIEW",
+        "privileges": [
+          "SELECT"
+        ]
+      },
+      {
+        "name": "SYS_GET_INSUFFICIENT_PRIVILEGE_ERROR_DETAILS",
+        "type": "PROCEDURE",
+        "privileges": [
+          "EXECUTE"
+        ]
+      },
+      {
+        "name": "SYS_M_SERVICES",
+        "type": "VIEW",
+        "privileges": [
+          "SELECT"
+        ]
+      },
+      {
+        "name": "SYS_PASSWORD_EXCLUDE_LIST",
+        "type": "TABLE",
+        "privileges": [
+          "DELETE",
+          "INSERT",
+          "UPDATE",
+          "SELECT"
+        ]
+      },
+      {
+        "name": "SYS_DI.TT_SCHEMA_ROLES",
+        "type": "TABLE",
+        "privileges": [
+          "SELECT"
+        ]
+      },
+      {
+        "name": "SYS_DI.T_NO_PARAMETERS",
+        "type": "TABLE",
+        "privileges": [
+          "SELECT"
+        ]
+      }
+    ],
+    "schema_privileges": [
+      {
+        "reference": "_SYS_STATISTICS",
+        "privileges": [
+          "SELECT"
+        ]
+      },
+      {
+        "reference": "GUIDERS_1",
+        "privileges": [
+          "CREATE ANY",
+          "SELECT METADATA"
+        ]
+      }
+    ],
+    "system_privileges": [
+      "AUDIT ADMIN",
+      "CATALOG READ",
+      "CREATE JWT PROVIDER",
+      "CREATE USERGROUP",
+      "INIFILE ADMIN",
+      "ROLE ADMIN",
+      "CREATE ROLEGROUP",
+      "TRACE ADMIN"
+    ]
+  }
+}
